@@ -1,0 +1,34 @@
+[
+  {
+    "name": "vitejs/vite",
+    "description": "Next generation frontend tooling for the web.",
+    "language": "JavaScript",
+    "stars": 72000,
+    "url": "https://github.com/vitejs/vite",
+    "updated": "2024-06-18"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": "Markdown",
+    "stars": 330000,
+    "url": "https://github.com/sindresorhus/awesome",
+    "updated": "2024-06-12"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 310000,
+    "url": "https://github.com/public-apis/public-apis",
+    "updated": "2024-05-29"
+  },
+  {
+    "name": "danielmiessler/SecLists",
+    "description": "Collection of multiple types of lists used during security assessments.",
+    "language": "Text",
+    "stars": 62000,
+    "url": "https://github.com/danielmiessler/SecLists",
+    "updated": "2024-05-16"
+  }
+]
